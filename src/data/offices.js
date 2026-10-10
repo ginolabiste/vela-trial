@@ -6,6 +6,8 @@ export const offices = [
     slug: "corporate-headquarters",
     week: "8:00 am – 8:00 pm",
     saturday: "8:00 am – 5:30 pm",
+    lat: 41.9686,
+    lng: -87.7649,
   },
   {
     name: "Chicago, IL South",
@@ -14,6 +16,8 @@ export const offices = [
     slug: "chicago-il-south",
     week: "9:30 am – 6:00 pm",
     saturday: "9:00 am – 3:00 pm",
+    lat: 41.7367,
+    lng: -87.7423,
   },
   {
     name: "Berwyn, IL",
@@ -22,6 +26,8 @@ export const offices = [
     slug: "berwyn-il",
     week: "9:30 am – 6:00 pm",
     saturday: "9:00 am – 3:00 pm",
+    lat: 41.8517,
+    lng: -87.7928,
   },
   {
     name: "Melrose Park, IL",
@@ -30,5 +36,7 @@ export const offices = [
     slug: "melrose-park-il",
     week: "8:00 am – 6:00 pm",
     saturday: "8:00 am – 2:00 pm",
+    lat: 41.9115,
+    lng: -87.8595,
   },
 ];
