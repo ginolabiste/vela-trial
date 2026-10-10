@@ -1,7 +1,7 @@
 name: Deploy Vite site to GitHub Pages
 on:
   push:
-    branches: [main]
+    branches: [ginolabiste-locations-heading-stack]
   workflow_dispatch:
 permissions:
   contents: read
