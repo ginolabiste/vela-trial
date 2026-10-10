@@ -51,3 +51,8 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
   attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
 }).addTo(map);
 map.fitBounds(markerGroup.getBounds().pad(0.2));
+// Leaflet's default zoom control links use href="#", which fails link-validation
+// checks (empty/placeholder hrefs). Point them at the map container instead.
+document
+  .querySelectorAll(".leaflet-control-zoom-in, .leaflet-control-zoom-out")
+  .forEach((a) => a.setAttribute("href", "#location-map"));
