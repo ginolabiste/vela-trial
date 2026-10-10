@@ -1,0 +1,34 @@
+export const offices = [
+  {
+    name: "Corporate Headquarters",
+    address: "5485 N Elston Ave, Chicago, IL 60630",
+    phone: "773-202-5060",
+    slug: "corporate-headquarters",
+    week: "8:00 am – 8:00 pm",
+    saturday: "8:00 am – 5:30 pm",
+  },
+  {
+    name: "Chicago, IL South",
+    address: "8537 S Cicero Ave, Chicago, IL 60652",
+    phone: "773-202-0651",
+    slug: "chicago-il-south",
+    week: "9:30 am – 6:00 pm",
+    saturday: "9:00 am – 3:00 pm",
+  },
+  {
+    name: "Berwyn, IL",
+    address: "7015 W Roosevelt Rd, Berwyn, IL 60402",
+    phone: "708-857-7661",
+    slug: "berwyn-il",
+    week: "9:30 am – 6:00 pm",
+    saturday: "9:00 am – 3:00 pm",
+  },
+  {
+    name: "Melrose Park, IL",
+    address: "1907 N Mannheim Rd, Melrose Park, IL 60160",
+    phone: "708-547-1800",
+    slug: "melrose-park-il",
+    week: "8:00 am – 6:00 pm",
+    saturday: "8:00 am – 2:00 pm",
+  },
+];

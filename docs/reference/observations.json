@@ -1,0 +1,1187 @@
+{
+  "blog": {
+    "title": "Tips & Resources (Articles) - Insure On The Spot",
+    "headings": [
+      "How to Defog Windshield & Windows in Chicago",
+      "How to Defog Windshield & Windows in Chicago ›",
+      "What Does Property Damage Liability Cover for Chicago Drivers? ›",
+      "How to Get an Instant Car Insurance Quote in Chicago ›",
+      "How to File Car Insurance Claims in Chicago ›"
+    ],
+    "images": [
+      {
+        "src": "https://www.insureonthespot.com/wp-content/themes/orbit-media/images/logo.png",
+        "alt": "Insure On The Spot"
+      },
+      {
+        "src": "https://www.insureonthespot.com/wp-content/themes/orbit-media/images/road-curve-footer.svg",
+        "alt": "Road Curve"
+      }
+    ],
+    "links": [
+      {
+        "text": "Auto Insurance",
+        "href": "https://www.insureonthespot.com/auto-insurance/"
+      },
+      {
+        "text": "SR22 Insurance",
+        "href": "https://www.insureonthespot.com/sr22-insurance/"
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.insureonthespot.com/about/"
+      },
+      {
+        "text": "Blog",
+        "href": "https://www.insureonthespot.com/customer-service/blog/"
+      },
+      {
+        "text": "Get FREE Quote",
+        "href": "https://www.insureonthespot.com/free-quote/"
+      },
+      {
+        "text": "Make My Payment",
+        "href": "https://csp.insureonthespot.com/Login.aspx"
+      },
+      {
+        "text": "Renew My Policy",
+        "href": "https://www.insureonthespot.com/renew-policy/"
+      },
+      {
+        "text": "Customer Service",
+        "href": "https://www.insureonthespot.com/customer-service/"
+      },
+      {
+        "text": "Payment Options",
+        "href": "https://www.insureonthespot.com/customer-service/payment-options/"
+      },
+      {
+        "text": "Roadside Assistance",
+        "href": "https://www.insureonthespot.com/customer-service/roadside-assistance/"
+      },
+      {
+        "text": "Report An Auto Insurance Claim",
+        "href": "https://www.insureonthespot.com/customer-service/report-insurance-claim/"
+      },
+      {
+        "text": "Auto Insurance FAQs",
+        "href": "https://www.insureonthespot.com/customer-service/auto-insurance-faq/"
+      },
+      {
+        "text": "Tips & Resources (Articles)",
+        "href": "https://www.insureonthespot.com/customer-service/blog/"
+      },
+      {
+        "text": "Locations",
+        "href": "https://www.insureonthespot.com/locations/"
+      },
+      {
+        "text": "Corporate Headquarters",
+        "href": "https://www.insureonthespot.com/locations/corporate-headquarters/"
+      },
+      {
+        "text": "Chicago, IL South",
+        "href": "https://www.insureonthespot.com/locations/chicago-il-south/"
+      },
+      {
+        "text": "Berwyn, IL",
+        "href": "https://www.insureonthespot.com/locations/berwyn-il/"
+      },
+      {
+        "text": "Melrose Park, IL",
+        "href": "https://www.insureonthespot.com/locations/melrose-park-il/"
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.insureonthespot.com/contact/"
+      },
+      {
+        "text": "CALL NOW 773-202-5060",
+        "href": "tel:773-202-5060"
+      },
+      {
+        "text": "Español",
+        "href": "https://www.insureonthespot.com/espanol/"
+      },
+      {
+        "text": "Make My Payment",
+        "href": "https://csp.insureonthespot.com/Login.aspx"
+      },
+      {
+        "text": "Renew My Policy",
+        "href": "https://csp.insureonthespot.com/Login.aspx"
+      },
+      {
+        "text": "Customer Service",
+        "href": "https://www.insureonthespot.com/customer-service/"
+      },
+      {
+        "text": "Locations",
+        "href": "https://www.insureonthespot.com/locations/"
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.insureonthespot.com/contact/"
+      },
+      {
+        "text": "",
+        "href": "https://www.insureonthespot.com/"
+      },
+      {
+        "text": "Auto Insurance",
+        "href": "https://www.insureonthespot.com/auto-insurance/"
+      },
+      {
+        "text": "SR22 Insurance",
+        "href": "https://www.insureonthespot.com/sr22-insurance/"
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.insureonthespot.com/about/"
+      },
+      {
+        "text": "Blog",
+        "href": "https://www.insureonthespot.com/customer-service/blog/"
+      },
+      {
+        "text": "Get Free Quote",
+        "href": "https://quote.insureonthespot.com/"
+      },
+      {
+        "text": "Make My Payment",
+        "href": "https://csp.insureonthespot.com/Login.aspx"
+      },
+      {
+        "text": "Renew My Policy",
+        "href": "https://csp.insureonthespot.com/Login.aspx"
+      },
+      {
+        "text": "Customer Service",
+        "href": "https://www.insureonthespot.com/customer-service/"
+      },
+      {
+        "text": "Payment Options",
+        "href": "https://www.insureonthespot.com/customer-service/payment-options/"
+      },
+      {
+        "text": "Roadside Assistance",
+        "href": "https://www.insureonthespot.com/customer-service/roadside-assistance/"
+      },
+      {
+        "text": "Report An Auto Insurance Claim",
+        "href": "https://www.insureonthespot.com/customer-service/report-insurance-claim/"
+      },
+      {
+        "text": "Auto Insurance FAQs",
+        "href": "https://www.insureonthespot.com/customer-service/auto-insurance-faq/"
+      },
+      {
+        "text": "Tips & Resources (Articles)",
+        "href": "https://www.insureonthespot.com/customer-service/blog/"
+      },
+      {
+        "text": "Locations",
+        "href": "https://www.insureonthespot.com/locations/"
+      },
+      {
+        "text": "Corporate Headquarters",
+        "href": "https://www.insureonthespot.com/locations/corporate-headquarters/"
+      },
+      {
+        "text": "Chicago, IL South",
+        "href": "https://www.insureonthespot.com/locations/chicago-il-south/"
+      },
+      {
+        "text": "Berwyn, IL",
+        "href": "https://www.insureonthespot.com/locations/berwyn-il/"
+      },
+      {
+        "text": "Melrose Park, IL",
+        "href": "https://www.insureonthespot.com/locations/melrose-park-il/"
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.insureonthespot.com/contact/"
+      },
+      {
+        "text": "Payment Options",
+        "href": "https://www.insureonthespot.com/customer-service/payment-options/"
+      },
+      {
+        "text": "Roadside Assistance",
+        "href": "https://www.insureonthespot.com/customer-service/roadside-assistance/"
+      },
+      {
+        "text": "Report An Auto Insurance Claim",
+        "href": "https://www.insureonthespot.com/customer-service/report-insurance-claim/"
+      },
+      {
+        "text": "Auto Insurance FAQs",
+        "href": "https://www.insureonthespot.com/customer-service/auto-insurance-faq/"
+      },
+      {
+        "text": "Tips & Resources (Articles)",
+        "href": "https://www.insureonthespot.com/customer-service/blog/"
+      },
+      {
+        "text": "How to Defog Windshield & Windows in Chicago ›",
+        "href": "https://www.insureonthespot.com/how-to-defog-windshield-windows-in-chicago/"
+      },
+      {
+        "text": "Read More ›",
+        "href": "https://www.insureonthespot.com/how-to-defog-windshield-windows-in-chicago/"
+      },
+      {
+        "text": "Safety",
+        "href": "https://www.insureonthespot.com/category/safety/"
+      },
+      {
+        "text": "What Does Property Damage Liability Cover for Chicago Drivers? ›",
+        "href": "https://www.insureonthespot.com/what-does-property-damage-liability-cover-for-chicago-drivers/"
+      },
+      {
+        "text": "Read More ›",
+        "href": "https://www.insureonthespot.com/what-does-property-damage-liability-cover-for-chicago-drivers/"
+      },
+      {
+        "text": "Coverages",
+        "href": "https://www.insureonthespot.com/category/coverages/"
+      },
+      {
+        "text": "How to Get an Instant Car Insurance Quote in Chicago ›",
+        "href": "https://www.insureonthespot.com/how-to-get-an-instant-car-insurance-quote-in-chicago/"
+      },
+      {
+        "text": "Read More ›",
+        "href": "https://www.insureonthespot.com/how-to-get-an-instant-car-insurance-quote-in-chicago/"
+      },
+      {
+        "text": "Tips",
+        "href": "https://www.insureonthespot.com/category/tips/"
+      },
+      {
+        "text": "How to File Car Insurance Claims in Chicago ›",
+        "href": "https://www.insureonthespot.com/how-to-file-car-insurance-claims-in-chicago/"
+      },
+      {
+        "text": "Read More ›",
+        "href": "https://www.insureonthespot.com/how-to-file-car-insurance-claims-in-chicago/"
+      },
+      {
+        "text": "Claims",
+        "href": "https://www.insureonthespot.com/category/claims/"
+      },
+      {
+        "text": "Older Articles ›",
+        "href": "https://www.insureonthespot.com/customer-service/blog/page/2/"
+      },
+      {
+        "text": "Affordability",
+        "href": "https://www.insureonthespot.com/category/affordability/"
+      },
+      {
+        "text": "Claims",
+        "href": "https://www.insureonthespot.com/category/claims/"
+      },
+      {
+        "text": "Coverages",
+        "href": "https://www.insureonthespot.com/category/coverages/"
+      },
+      {
+        "text": "Driving Local: Chicago Guide",
+        "href": "https://www.insureonthespot.com/category/driving-local-chicago-guide/"
+      },
+      {
+        "text": "Education",
+        "href": "https://www.insureonthespot.com/category/education/"
+      },
+      {
+        "text": "International",
+        "href": "https://www.insureonthespot.com/category/international/"
+      },
+      {
+        "text": "Legal",
+        "href": "https://www.insureonthespot.com/category/legal/"
+      },
+      {
+        "text": "License & Registration",
+        "href": "https://www.insureonthespot.com/category/license-registration/"
+      },
+      {
+        "text": "Maintenance",
+        "href": "https://www.insureonthespot.com/category/maintenance/"
+      },
+      {
+        "text": "Rentals",
+        "href": "https://www.insureonthespot.com/category/rentals/"
+      },
+      {
+        "text": "Safety",
+        "href": "https://www.insureonthespot.com/category/safety/"
+      },
+      {
+        "text": "SR-22",
+        "href": "https://www.insureonthespot.com/category/sr-22/"
+      },
+      {
+        "text": "Tips",
+        "href": "https://www.insureonthespot.com/category/tips/"
+      },
+      {
+        "text": "Uncategorized",
+        "href": "https://www.insureonthespot.com/category/uncategorized/"
+      },
+      {
+        "text": "Vehicle Type Guides",
+        "href": "https://www.insureonthespot.com/category/vehicle-type-guides/"
+      },
+      {
+        "text": "Auto Insurance",
+        "href": "https://www.insureonthespot.com/auto-insurance/"
+      },
+      {
+        "text": "SR22 Insurance",
+        "href": "https://www.insureonthespot.com/sr22-insurance/"
+      },
+      {
+        "text": "Motorcycle Insurance",
+        "href": "https://www.insureonthespot.com/auto-insurance/motorcycle-insurance/"
+      },
+      {
+        "text": "Get FREE Quote",
+        "href": "https://quote.insureonthespot.com/"
+      },
+      {
+        "text": "Make My Payment",
+        "href": "https://csp.insureonthespot.com/"
+      },
+      {
+        "text": "Renew My Policy",
+        "href": "https://csp.insureonthespot.com/"
+      },
+      {
+        "text": "Corporate Headquarters",
+        "href": "https://www.insureonthespot.com/locations/corporate-headquarters/"
+      },
+      {
+        "text": "Chicago, IL South",
+        "href": "https://www.insureonthespot.com/locations/chicago-il-south/"
+      },
+      {
+        "text": "Berwyn, IL",
+        "href": "https://www.insureonthespot.com/locations/berwyn-il/"
+      },
+      {
+        "text": "Melrose Park, IL",
+        "href": "https://www.insureonthespot.com/locations/melrose-park-il/"
+      },
+      {
+        "text": "Additional Areas Served",
+        "href": "https://www.insureonthespot.com/service-areas/"
+      },
+      {
+        "text": "Easy Payment Options",
+        "href": "https://www.insureonthespot.com/customer-service/payment-options/"
+      },
+      {
+        "text": "Report a Claim",
+        "href": "https://www.insureonthespot.com/customer-service/report-insurance-claim/"
+      },
+      {
+        "text": "Auto Insurance FAQs",
+        "href": "https://www.insureonthespot.com/customer-service/auto-insurance-faq/"
+      },
+      {
+        "text": "Tips & Resources (Articles)",
+        "href": "https://www.insureonthespot.com/customer-service/blog/"
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.insureonthespot.com/contact/"
+      },
+      {
+        "text": "Employment Opportunities",
+        "href": "https://www.insureonthespot.com/employment-opportunities/"
+      },
+      {
+        "text": "Location Finder",
+        "href": "https://www.insureonthespot.com/location-finder/"
+      },
+      {
+        "text": "ILIVS Illinois Insurance Verification System",
+        "href": "https://www.insureonthespot.com/customer-service/ilivs-illinois-insurance-verification-system/"
+      },
+      {
+        "text": "See what our customers are saying about us!",
+        "href": "https://www.insureonthespot.com/see-what-our-customers-are-saying-about-us/"
+      },
+      {
+        "text": "Affiliate Login",
+        "href": "https://quote.insureonthespot.com/Default.aspx/dealer"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://www.insureonthespot.com/privacy-policy/"
+      },
+      {
+        "text": "Sitemap",
+        "href": "https://www.insureonthespot.com/sitemap/"
+      },
+      {
+        "text": "Terms & Conditions",
+        "href": "https://www.insureonthespot.com/terms-conditions/"
+      }
+    ],
+    "font": "proxima-nova, sans-serif"
+  },
+  "locations": {
+    "title": "Locations - Insure On The Spot",
+    "headings": [
+      "Our Locations"
+    ],
+    "images": [
+      {
+        "src": "https://www.insureonthespot.com/wp-content/themes/orbit-media/images/logo.png",
+        "alt": "Insure On The Spot"
+      },
+      {
+        "src": "https://www.insureonthespot.com/wp-content/uploads/2019/10/iots-hom-hero.jpg",
+        "alt": "Locations"
+      },
+      {
+        "src": "https://www.insureonthespot.com/wp-content/uploads/2020/01/JP2_1071_web-1024x683.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.insureonthespot.com/wp-content/themes/orbit-media/images/location-pin.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.insureonthespot.com/wp-content/themes/orbit-media/images/location-pin.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.insureonthespot.com/wp-content/themes/orbit-media/images/location-pin.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.insureonthespot.com/wp-content/themes/orbit-media/images/location-pin.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.insureonthespot.com/wp-content/themes/orbit-media/images/road-curve-footer.svg",
+        "alt": "Road Curve"
+      },
+      {
+        "src": "https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Sat%2C%2010%20Oct%202026%2011%3A40%3A11%20GMT&n=-8&b=Locations%20-%20Insure%20On%20The%20Spot&.yp=10047732&f=https%3A%2F%2Fwww.insureonthespot.com%2Flocations%2F&enc=UTF-8&yv=1.17.1",
+        "alt": "dot image pixel"
+      },
+      {
+        "src": "https://bat.bing.com/action/0?ti=27010852&Ver=2&mid=4f2c7b26-8039-4056-a86b-6d6ff00964ad&bo=1&sid=5a17a270c49f11f1b3628d3737d29a5a&vid=5a17ac30c49f11f1a13fbf705e58bf2f&vids=0&msclkid=N&uach=pv%3D19.0.0&pi=918639831&lg=en-GB&sw=1440&sh=1000&sc=24&nwd=1&tl=Locations%20-%20Insure%20On%20The%20Spot&p=https%3A%2F%2Fwww.insureonthespot.com%2Flocations%2F&r=&lt=333&evt=pageLoad&sv=2&cdb=AQAQ&rn=46843",
+        "alt": ""
+      }
+    ],
+    "links": [
+      {
+        "text": "Auto Insurance",
+        "href": "https://www.insureonthespot.com/auto-insurance/"
+      },
+      {
+        "text": "SR22 Insurance",
+        "href": "https://www.insureonthespot.com/sr22-insurance/"
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.insureonthespot.com/about/"
+      },
+      {
+        "text": "Blog",
+        "href": "https://www.insureonthespot.com/customer-service/blog/"
+      },
+      {
+        "text": "Get FREE Quote",
+        "href": "https://www.insureonthespot.com/free-quote/"
+      },
+      {
+        "text": "Make My Payment",
+        "href": "https://csp.insureonthespot.com/Login.aspx"
+      },
+      {
+        "text": "Renew My Policy",
+        "href": "https://www.insureonthespot.com/renew-policy/"
+      },
+      {
+        "text": "Customer Service",
+        "href": "https://www.insureonthespot.com/customer-service/"
+      },
+      {
+        "text": "Payment Options",
+        "href": "https://www.insureonthespot.com/customer-service/payment-options/"
+      },
+      {
+        "text": "Roadside Assistance",
+        "href": "https://www.insureonthespot.com/customer-service/roadside-assistance/"
+      },
+      {
+        "text": "Report An Auto Insurance Claim",
+        "href": "https://www.insureonthespot.com/customer-service/report-insurance-claim/"
+      },
+      {
+        "text": "Auto Insurance FAQs",
+        "href": "https://www.insureonthespot.com/customer-service/auto-insurance-faq/"
+      },
+      {
+        "text": "Tips & Resources (Articles)",
+        "href": "https://www.insureonthespot.com/customer-service/blog/"
+      },
+      {
+        "text": "Locations",
+        "href": "https://www.insureonthespot.com/locations/"
+      },
+      {
+        "text": "Corporate Headquarters",
+        "href": "https://www.insureonthespot.com/locations/corporate-headquarters/"
+      },
+      {
+        "text": "Chicago, IL South",
+        "href": "https://www.insureonthespot.com/locations/chicago-il-south/"
+      },
+      {
+        "text": "Berwyn, IL",
+        "href": "https://www.insureonthespot.com/locations/berwyn-il/"
+      },
+      {
+        "text": "Melrose Park, IL",
+        "href": "https://www.insureonthespot.com/locations/melrose-park-il/"
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.insureonthespot.com/contact/"
+      },
+      {
+        "text": "CALL NOW 773-202-5060",
+        "href": "tel:773-202-5060"
+      },
+      {
+        "text": "Español",
+        "href": "https://www.insureonthespot.com/espanol/"
+      },
+      {
+        "text": "Make My Payment",
+        "href": "https://csp.insureonthespot.com/Login.aspx"
+      },
+      {
+        "text": "Renew My Policy",
+        "href": "https://csp.insureonthespot.com/Login.aspx"
+      },
+      {
+        "text": "Customer Service",
+        "href": "https://www.insureonthespot.com/customer-service/"
+      },
+      {
+        "text": "Locations",
+        "href": "https://www.insureonthespot.com/locations/"
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.insureonthespot.com/contact/"
+      },
+      {
+        "text": "",
+        "href": "https://www.insureonthespot.com/"
+      },
+      {
+        "text": "Auto Insurance",
+        "href": "https://www.insureonthespot.com/auto-insurance/"
+      },
+      {
+        "text": "SR22 Insurance",
+        "href": "https://www.insureonthespot.com/sr22-insurance/"
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.insureonthespot.com/about/"
+      },
+      {
+        "text": "Blog",
+        "href": "https://www.insureonthespot.com/customer-service/blog/"
+      },
+      {
+        "text": "Get Free Quote",
+        "href": "https://quote.insureonthespot.com/"
+      },
+      {
+        "text": "Make My Payment",
+        "href": "https://csp.insureonthespot.com/Login.aspx"
+      },
+      {
+        "text": "Renew My Policy",
+        "href": "https://csp.insureonthespot.com/Login.aspx"
+      },
+      {
+        "text": "Customer Service",
+        "href": "https://www.insureonthespot.com/customer-service/"
+      },
+      {
+        "text": "Payment Options",
+        "href": "https://www.insureonthespot.com/customer-service/payment-options/"
+      },
+      {
+        "text": "Roadside Assistance",
+        "href": "https://www.insureonthespot.com/customer-service/roadside-assistance/"
+      },
+      {
+        "text": "Report An Auto Insurance Claim",
+        "href": "https://www.insureonthespot.com/customer-service/report-insurance-claim/"
+      },
+      {
+        "text": "Auto Insurance FAQs",
+        "href": "https://www.insureonthespot.com/customer-service/auto-insurance-faq/"
+      },
+      {
+        "text": "Tips & Resources (Articles)",
+        "href": "https://www.insureonthespot.com/customer-service/blog/"
+      },
+      {
+        "text": "Locations",
+        "href": "https://www.insureonthespot.com/locations/"
+      },
+      {
+        "text": "Corporate Headquarters",
+        "href": "https://www.insureonthespot.com/locations/corporate-headquarters/"
+      },
+      {
+        "text": "Chicago, IL South",
+        "href": "https://www.insureonthespot.com/locations/chicago-il-south/"
+      },
+      {
+        "text": "Berwyn, IL",
+        "href": "https://www.insureonthespot.com/locations/berwyn-il/"
+      },
+      {
+        "text": "Melrose Park, IL",
+        "href": "https://www.insureonthespot.com/locations/melrose-park-il/"
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.insureonthespot.com/contact/"
+      },
+      {
+        "text": "Call Now!",
+        "href": "tel:773-202-5060"
+      },
+      {
+        "text": "Location Finder",
+        "href": "https://www.insureonthespot.com/location-finder/"
+      },
+      {
+        "text": "See Hours & Details ›",
+        "href": "https://www.insureonthespot.com/locations/corporate-headquarters/"
+      },
+      {
+        "text": "See Hours & Details ›",
+        "href": "https://www.insureonthespot.com/locations/chicago-il-south/"
+      },
+      {
+        "text": "See Hours & Details ›",
+        "href": "https://www.insureonthespot.com/locations/berwyn-il/"
+      },
+      {
+        "text": "See Hours & Details ›",
+        "href": "https://www.insureonthespot.com/locations/melrose-park-il/"
+      },
+      {
+        "text": "Auto Insurance",
+        "href": "https://www.insureonthespot.com/auto-insurance/"
+      },
+      {
+        "text": "SR22 Insurance",
+        "href": "https://www.insureonthespot.com/sr22-insurance/"
+      },
+      {
+        "text": "Motorcycle Insurance",
+        "href": "https://www.insureonthespot.com/auto-insurance/motorcycle-insurance/"
+      },
+      {
+        "text": "Get FREE Quote",
+        "href": "https://quote.insureonthespot.com/"
+      },
+      {
+        "text": "Make My Payment",
+        "href": "https://csp.insureonthespot.com/"
+      },
+      {
+        "text": "Renew My Policy",
+        "href": "https://csp.insureonthespot.com/"
+      },
+      {
+        "text": "Corporate Headquarters",
+        "href": "https://www.insureonthespot.com/locations/corporate-headquarters/"
+      },
+      {
+        "text": "Chicago, IL South",
+        "href": "https://www.insureonthespot.com/locations/chicago-il-south/"
+      },
+      {
+        "text": "Berwyn, IL",
+        "href": "https://www.insureonthespot.com/locations/berwyn-il/"
+      },
+      {
+        "text": "Melrose Park, IL",
+        "href": "https://www.insureonthespot.com/locations/melrose-park-il/"
+      },
+      {
+        "text": "Additional Areas Served",
+        "href": "https://www.insureonthespot.com/service-areas/"
+      },
+      {
+        "text": "Easy Payment Options",
+        "href": "https://www.insureonthespot.com/customer-service/payment-options/"
+      },
+      {
+        "text": "Report a Claim",
+        "href": "https://www.insureonthespot.com/customer-service/report-insurance-claim/"
+      },
+      {
+        "text": "Auto Insurance FAQs",
+        "href": "https://www.insureonthespot.com/customer-service/auto-insurance-faq/"
+      },
+      {
+        "text": "Tips & Resources (Articles)",
+        "href": "https://www.insureonthespot.com/customer-service/blog/"
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.insureonthespot.com/contact/"
+      },
+      {
+        "text": "Employment Opportunities",
+        "href": "https://www.insureonthespot.com/employment-opportunities/"
+      },
+      {
+        "text": "Location Finder",
+        "href": "https://www.insureonthespot.com/location-finder/"
+      },
+      {
+        "text": "ILIVS Illinois Insurance Verification System",
+        "href": "https://www.insureonthespot.com/customer-service/ilivs-illinois-insurance-verification-system/"
+      },
+      {
+        "text": "See what our customers are saying about us!",
+        "href": "https://www.insureonthespot.com/see-what-our-customers-are-saying-about-us/"
+      },
+      {
+        "text": "Affiliate Login",
+        "href": "https://quote.insureonthespot.com/Default.aspx/dealer"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://www.insureonthespot.com/privacy-policy/"
+      },
+      {
+        "text": "Sitemap",
+        "href": "https://www.insureonthespot.com/sitemap/"
+      },
+      {
+        "text": "Terms & Conditions",
+        "href": "https://www.insureonthespot.com/terms-conditions/"
+      }
+    ],
+    "font": "proxima-nova, sans-serif"
+  },
+  "contact": {
+    "title": "Contact Us - Insure On The Spot",
+    "headings": [
+      "Contact Us"
+    ],
+    "images": [
+      {
+        "src": "https://www.insureonthespot.com/wp-content/themes/orbit-media/images/logo.png",
+        "alt": "Insure On The Spot"
+      },
+      {
+        "src": "https://www.insureonthespot.com/wp-content/uploads/2022/11/new-hero.png",
+        "alt": "Contact Us"
+      },
+      {
+        "src": "https://www.insureonthespot.com/wp-content/uploads/2019/05/SR22-1.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.insureonthespot.com/wp-content/uploads/2015/09/Google-Reviews-transparent-300x150.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.insureonthespot.com/wp-content/uploads/2019/12/BBBLogo.png",
+        "alt": "Insure On The Spot BBB Business Review"
+      },
+      {
+        "src": "https://www.insureonthespot.com/wp-content/uploads/2020/01/JP2_1071_web-1024x683.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://sp.analytics.yahoo.com/sp.pl?a=10000&d=Sat%2C%2010%20Oct%202026%2011%3A40%3A12%20GMT&n=-8&b=Contact%20Us%20-%20Insure%20On%20The%20Spot&.yp=10047732&f=https%3A%2F%2Fwww.insureonthespot.com%2Fcontact%2F&enc=UTF-8&yv=1.17.1",
+        "alt": "dot image pixel"
+      },
+      {
+        "src": "https://dsum-sec.casalemedia.com/rum?cm_dsp_id=10&external_user_id=1503170109275&us_privacy=1---",
+        "alt": ""
+      },
+      {
+        "src": "https://sync.1rx.io/usersync/acuityads/1503170109275",
+        "alt": ""
+      },
+      {
+        "src": "https://sync.navdmp.com/sync?prtid=44&illu_id=1503170109275&redir=https%3A%2F%2Fums.acuityplatform.com%2Fsum%3Fumid%3D78%26auid%3D1503170109275",
+        "alt": ""
+      },
+      {
+        "src": "https://x.bidswitch.net/sync?dsp_id=236&user_id=1503170109275&expires=30&user_group=1",
+        "alt": ""
+      },
+      {
+        "src": "https://cm.g.doubleclick.net/pixel?google_nid=acuity&google_hm=1503170109275&google_cm&us_privacy=1---",
+        "alt": ""
+      },
+      {
+        "src": "https://pixel.rubiconproject.com/tap.php?v=5672&nid=2082&put=1503170109275&expires=30&us_privacy=1---",
+        "alt": ""
+      },
+      {
+        "src": "https://ce.lijit.com/merge?pid=66&3pid=1503170109275",
+        "alt": ""
+      },
+      {
+        "src": "https://pixel.tapad.com/idsync/ex/receive?partner_id=3150&partner_device_id=1503170109275&partner_url=https%3A%2F%2Fums.acuityplatform.com%2Fsum%3Fumid%3D64%26auid%3D1503170109275%26uid%3D%24%7BTA_DEVICE_ID%7D",
+        "alt": ""
+      },
+      {
+        "src": "https://rtb-csync.smartadserver.com/redir/?partnerid=158&partneruserid=1503170109275&redirurl=https%3A%2F%2Fums.acuityplatform.com%2Fsum%3Fumid%3D328%26uid%3DSMART_USER_ID",
+        "alt": ""
+      },
+      {
+        "src": "https://image2.pubmatic.com/AdServer/Pug?vcode=bz0yJnR5cGU9MSZqcz0xJmNvZGU9Mjk0NyZ0bD0xMjk2MDA=&piggybackCookie=uid:1503170109275&r=https%3A%2F%2Fums.acuityplatform.com%2Fsum%3Fumid%3D6%26auid%3D1503170109275%26uid%3D%24%7BPUBMATIC_UID%7D",
+        "alt": ""
+      },
+      {
+        "src": "https://www.insureonthespot.com/wp-content/themes/orbit-media/images/road-curve-footer.svg",
+        "alt": "Road Curve"
+      },
+      {
+        "src": "https://bat.bing.com/action/0?ti=27010852&Ver=2&mid=3c9c701f-5b92-4261-a1ea-2ecef57da7e0&bo=1&sid=5a17a270c49f11f1b3628d3737d29a5a&vid=5a17ac30c49f11f1a13fbf705e58bf2f&vids=0&msclkid=N&uach=pv%3D19.0.0&pi=918639831&lg=en-GB&sw=1440&sh=1000&sc=24&nwd=1&tl=Contact%20Us%20-%20Insure%20On%20The%20Spot&p=https%3A%2F%2Fwww.insureonthespot.com%2Fcontact%2F&r=&lt=2616&evt=pageLoad&sv=2&cdb=AQAQ&rn=951382",
+        "alt": ""
+      }
+    ],
+    "links": [
+      {
+        "text": "Auto Insurance",
+        "href": "https://www.insureonthespot.com/auto-insurance/"
+      },
+      {
+        "text": "SR22 Insurance",
+        "href": "https://www.insureonthespot.com/sr22-insurance/"
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.insureonthespot.com/about/"
+      },
+      {
+        "text": "Blog",
+        "href": "https://www.insureonthespot.com/customer-service/blog/"
+      },
+      {
+        "text": "Get FREE Quote",
+        "href": "https://www.insureonthespot.com/free-quote/"
+      },
+      {
+        "text": "Make My Payment",
+        "href": "https://csp.insureonthespot.com/Login.aspx"
+      },
+      {
+        "text": "Renew My Policy",
+        "href": "https://www.insureonthespot.com/renew-policy/"
+      },
+      {
+        "text": "Customer Service",
+        "href": "https://www.insureonthespot.com/customer-service/"
+      },
+      {
+        "text": "Payment Options",
+        "href": "https://www.insureonthespot.com/customer-service/payment-options/"
+      },
+      {
+        "text": "Roadside Assistance",
+        "href": "https://www.insureonthespot.com/customer-service/roadside-assistance/"
+      },
+      {
+        "text": "Report An Auto Insurance Claim",
+        "href": "https://www.insureonthespot.com/customer-service/report-insurance-claim/"
+      },
+      {
+        "text": "Auto Insurance FAQs",
+        "href": "https://www.insureonthespot.com/customer-service/auto-insurance-faq/"
+      },
+      {
+        "text": "Tips & Resources (Articles)",
+        "href": "https://www.insureonthespot.com/customer-service/blog/"
+      },
+      {
+        "text": "Locations",
+        "href": "https://www.insureonthespot.com/locations/"
+      },
+      {
+        "text": "Corporate Headquarters",
+        "href": "https://www.insureonthespot.com/locations/corporate-headquarters/"
+      },
+      {
+        "text": "Chicago, IL South",
+        "href": "https://www.insureonthespot.com/locations/chicago-il-south/"
+      },
+      {
+        "text": "Berwyn, IL",
+        "href": "https://www.insureonthespot.com/locations/berwyn-il/"
+      },
+      {
+        "text": "Melrose Park, IL",
+        "href": "https://www.insureonthespot.com/locations/melrose-park-il/"
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.insureonthespot.com/contact/"
+      },
+      {
+        "text": "CALL NOW 773-202-5060",
+        "href": "tel:773-202-5060"
+      },
+      {
+        "text": "Español",
+        "href": "https://www.insureonthespot.com/espanol/"
+      },
+      {
+        "text": "Make My Payment",
+        "href": "https://csp.insureonthespot.com/Login.aspx"
+      },
+      {
+        "text": "Renew My Policy",
+        "href": "https://csp.insureonthespot.com/Login.aspx"
+      },
+      {
+        "text": "Customer Service",
+        "href": "https://www.insureonthespot.com/customer-service/"
+      },
+      {
+        "text": "Locations",
+        "href": "https://www.insureonthespot.com/locations/"
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.insureonthespot.com/contact/"
+      },
+      {
+        "text": "",
+        "href": "https://www.insureonthespot.com/"
+      },
+      {
+        "text": "Auto Insurance",
+        "href": "https://www.insureonthespot.com/auto-insurance/"
+      },
+      {
+        "text": "SR22 Insurance",
+        "href": "https://www.insureonthespot.com/sr22-insurance/"
+      },
+      {
+        "text": "About Us",
+        "href": "https://www.insureonthespot.com/about/"
+      },
+      {
+        "text": "Blog",
+        "href": "https://www.insureonthespot.com/customer-service/blog/"
+      },
+      {
+        "text": "Get Free Quote",
+        "href": "https://quote.insureonthespot.com/"
+      },
+      {
+        "text": "Make My Payment",
+        "href": "https://csp.insureonthespot.com/Login.aspx"
+      },
+      {
+        "text": "Renew My Policy",
+        "href": "https://csp.insureonthespot.com/Login.aspx"
+      },
+      {
+        "text": "Customer Service",
+        "href": "https://www.insureonthespot.com/customer-service/"
+      },
+      {
+        "text": "Payment Options",
+        "href": "https://www.insureonthespot.com/customer-service/payment-options/"
+      },
+      {
+        "text": "Roadside Assistance",
+        "href": "https://www.insureonthespot.com/customer-service/roadside-assistance/"
+      },
+      {
+        "text": "Report An Auto Insurance Claim",
+        "href": "https://www.insureonthespot.com/customer-service/report-insurance-claim/"
+      },
+      {
+        "text": "Auto Insurance FAQs",
+        "href": "https://www.insureonthespot.com/customer-service/auto-insurance-faq/"
+      },
+      {
+        "text": "Tips & Resources (Articles)",
+        "href": "https://www.insureonthespot.com/customer-service/blog/"
+      },
+      {
+        "text": "Locations",
+        "href": "https://www.insureonthespot.com/locations/"
+      },
+      {
+        "text": "Corporate Headquarters",
+        "href": "https://www.insureonthespot.com/locations/corporate-headquarters/"
+      },
+      {
+        "text": "Chicago, IL South",
+        "href": "https://www.insureonthespot.com/locations/chicago-il-south/"
+      },
+      {
+        "text": "Berwyn, IL",
+        "href": "https://www.insureonthespot.com/locations/berwyn-il/"
+      },
+      {
+        "text": "Melrose Park, IL",
+        "href": "https://www.insureonthespot.com/locations/melrose-park-il/"
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.insureonthespot.com/contact/"
+      },
+      {
+        "text": "Call Now!",
+        "href": "tel:773-202-5060"
+      },
+      {
+        "text": "773-202-5060",
+        "href": "tel:773-202-5060"
+      },
+      {
+        "text": "Location Finder",
+        "href": "https://www.insureonthespot.com/location-finder/"
+      },
+      {
+        "text": "Get a Free Quote",
+        "href": "https://quote.insureonthespot.com/"
+      },
+      {
+        "text": "Click Here",
+        "href": "https://www.insureonthespot.com/employment-opportunities/"
+      },
+      {
+        "text": "Employment Opportunities",
+        "href": "https://www.insureonthespot.com/employment-opportunities/"
+      },
+      {
+        "text": "",
+        "href": "https://www.bbb.org/chicago/business-reviews/auto-insurance/insure-on-the-spot-in-chicago-il-14007680/#sealclick"
+      },
+      {
+        "text": "Auto Insurance",
+        "href": "https://www.insureonthespot.com/auto-insurance/"
+      },
+      {
+        "text": "SR22 Insurance",
+        "href": "https://www.insureonthespot.com/sr22-insurance/"
+      },
+      {
+        "text": "Motorcycle Insurance",
+        "href": "https://www.insureonthespot.com/auto-insurance/motorcycle-insurance/"
+      },
+      {
+        "text": "Get FREE Quote",
+        "href": "https://quote.insureonthespot.com/"
+      },
+      {
+        "text": "Make My Payment",
+        "href": "https://csp.insureonthespot.com/"
+      },
+      {
+        "text": "Renew My Policy",
+        "href": "https://csp.insureonthespot.com/"
+      },
+      {
+        "text": "Corporate Headquarters",
+        "href": "https://www.insureonthespot.com/locations/corporate-headquarters/"
+      },
+      {
+        "text": "Chicago, IL South",
+        "href": "https://www.insureonthespot.com/locations/chicago-il-south/"
+      },
+      {
+        "text": "Berwyn, IL",
+        "href": "https://www.insureonthespot.com/locations/berwyn-il/"
+      },
+      {
+        "text": "Melrose Park, IL",
+        "href": "https://www.insureonthespot.com/locations/melrose-park-il/"
+      },
+      {
+        "text": "Additional Areas Served",
+        "href": "https://www.insureonthespot.com/service-areas/"
+      },
+      {
+        "text": "Easy Payment Options",
+        "href": "https://www.insureonthespot.com/customer-service/payment-options/"
+      },
+      {
+        "text": "Report a Claim",
+        "href": "https://www.insureonthespot.com/customer-service/report-insurance-claim/"
+      },
+      {
+        "text": "Auto Insurance FAQs",
+        "href": "https://www.insureonthespot.com/customer-service/auto-insurance-faq/"
+      },
+      {
+        "text": "Tips & Resources (Articles)",
+        "href": "https://www.insureonthespot.com/customer-service/blog/"
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://www.insureonthespot.com/contact/"
+      },
+      {
+        "text": "Employment Opportunities",
+        "href": "https://www.insureonthespot.com/employment-opportunities/"
+      },
+      {
+        "text": "Location Finder",
+        "href": "https://www.insureonthespot.com/location-finder/"
+      },
+      {
+        "text": "ILIVS Illinois Insurance Verification System",
+        "href": "https://www.insureonthespot.com/customer-service/ilivs-illinois-insurance-verification-system/"
+      },
+      {
+        "text": "See what our customers are saying about us!",
+        "href": "https://www.insureonthespot.com/see-what-our-customers-are-saying-about-us/"
+      },
+      {
+        "text": "Affiliate Login",
+        "href": "https://quote.insureonthespot.com/Default.aspx/dealer"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "https://www.insureonthespot.com/privacy-policy/"
+      },
+      {
+        "text": "Sitemap",
+        "href": "https://www.insureonthespot.com/sitemap/"
+      },
+      {
+        "text": "Terms & Conditions",
+        "href": "https://www.insureonthespot.com/terms-conditions/"
+      }
+    ],
+    "font": "proxima-nova, sans-serif"
+  }
+}

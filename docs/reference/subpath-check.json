@@ -1,0 +1,71 @@
+{
+  "base": "http://127.0.0.1:4176/vela-iots-trial/",
+  "checkedAt": "2026-10-10T11:50:37.528Z",
+  "results": [
+    {
+      "url": "http://127.0.0.1:4176/vela-iots-trial/",
+      "title": "Insure On The Spot | Vela Trial Preview",
+      "h1": "A clearer road ahead.",
+      "imagesLoaded": true,
+      "links": [
+        "/vela-iots-trial/",
+        "/vela-iots-trial/blog/",
+        "/vela-iots-trial/locations/",
+        "/vela-iots-trial/contact/",
+        "/vela-iots-trial/blog/",
+        "/vela-iots-trial/locations/",
+        "/vela-iots-trial/contact/",
+        "/vela-iots-trial/locations/",
+        "/vela-iots-trial/blog/",
+        "/vela-iots-trial/contact/"
+      ]
+    },
+    {
+      "url": "http://127.0.0.1:4176/vela-iots-trial/blog/",
+      "title": "Tips & Resources | Insure On The Spot",
+      "h1": "Tips & Resources",
+      "imagesLoaded": true,
+      "links": [
+        "/vela-iots-trial/",
+        "/vela-iots-trial/blog/",
+        "/vela-iots-trial/locations/",
+        "/vela-iots-trial/contact/",
+        "/vela-iots-trial/locations/",
+        "/vela-iots-trial/blog/",
+        "/vela-iots-trial/contact/"
+      ]
+    },
+    {
+      "url": "http://127.0.0.1:4176/vela-iots-trial/locations/",
+      "title": "Our Locations | Insure On The Spot",
+      "h1": "Our Locations",
+      "imagesLoaded": true,
+      "links": [
+        "/vela-iots-trial/",
+        "/vela-iots-trial/blog/",
+        "/vela-iots-trial/locations/",
+        "/vela-iots-trial/contact/",
+        "/vela-iots-trial/locations/",
+        "/vela-iots-trial/blog/",
+        "/vela-iots-trial/contact/"
+      ]
+    },
+    {
+      "url": "http://127.0.0.1:4176/vela-iots-trial/contact/",
+      "title": "Contact Us | Insure On The Spot",
+      "h1": "Contact Us",
+      "imagesLoaded": true,
+      "links": [
+        "/vela-iots-trial/",
+        "/vela-iots-trial/blog/",
+        "/vela-iots-trial/locations/",
+        "/vela-iots-trial/contact/",
+        "/vela-iots-trial/locations/",
+        "/vela-iots-trial/locations/",
+        "/vela-iots-trial/blog/",
+        "/vela-iots-trial/contact/"
+      ]
+    }
+  ],
+  "failures": []
+}

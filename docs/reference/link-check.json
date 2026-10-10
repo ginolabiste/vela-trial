@@ -1,0 +1,202 @@
+[
+  {
+    "url": "https://csp.insureonthespot.com/Login.aspx",
+    "status": 200,
+    "finalUrl": "https://csp.insureonthespot.com/Login.aspx"
+  },
+  {
+    "url": "https://www.insureonthespot.com/espanol/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/espanol/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/auto-insurance/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/auto-insurance/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/sr22-insurance/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/sr22-insurance/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/about/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/about/"
+  },
+  {
+    "url": "https://quote.insureonthespot.com/",
+    "status": 200,
+    "finalUrl": "https://quote.insureonthespot.com/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/category/safety/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/category/safety/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/how-to-defog-windshield-windows-in-chicago/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/how-to-defog-windshield-windows-in-chicago/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/category/coverages/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/category/coverages/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/what-does-property-damage-liability-cover-for-chicago-drivers/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/what-does-property-damage-liability-cover-for-chicago-drivers/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/category/tips/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/category/tips/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/how-to-get-an-instant-car-insurance-quote-in-chicago/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/how-to-get-an-instant-car-insurance-quote-in-chicago/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/category/claims/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/category/claims/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/how-to-file-car-insurance-claims-in-chicago/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/how-to-file-car-insurance-claims-in-chicago/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/customer-service/blog/page/2/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/customer-service/blog/page/2/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/category/affordability/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/category/affordability/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/category/driving-local-chicago-guide/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/category/driving-local-chicago-guide/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/category/education/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/category/education/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/category/international/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/category/international/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/category/legal/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/category/legal/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/category/license-registration/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/category/license-registration/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/category/maintenance/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/category/maintenance/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/category/rentals/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/category/rentals/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/category/sr-22/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/category/sr-22/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/category/uncategorized/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/category/uncategorized/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/category/vehicle-type-guides/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/category/vehicle-type-guides/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/motorcycle-insurance/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/motorcycle-insurance/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/locations/corporate-headquarters/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/locations/corporate-headquarters/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/locations/chicago-il-south/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/locations/chicago-il-south/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/locations/berwyn-il/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/locations/berwyn-il/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/locations/melrose-park-il/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/locations/melrose-park-il/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/customer-service/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/customer-service/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/customer-service/payment-options/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/customer-service/payment-options/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/customer-service/report-insurance-claim/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/customer-service/report-insurance-claim/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/customer-service/roadside-assistance/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/customer-service/roadside-assistance/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/customer-service/auto-insurance-faq/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/customer-service/auto-insurance-faq/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/employment-opportunities/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/employment-opportunities/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/privacy-policy/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/privacy-policy/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/terms-conditions/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/terms-conditions/"
+  },
+  {
+    "url": "https://www.insureonthespot.com/sitemap/",
+    "status": 200,
+    "finalUrl": "https://www.insureonthespot.com/sitemap/"
+  }
+]

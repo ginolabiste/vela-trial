@@ -1,0 +1,15 @@
+:root {
+  --blue: #005581;
+  --navy: #002d45;
+  --gold: #ffcf40;
+  --paper: #f5f8fa;
+  --ink: #15364a;
+  --muted: #536874;
+  --line: #d8e3e9;
+  --white: #fff;
+  --radius: 12px;
+  --max: 1160px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--ink);
+  font-synthesis: none;
+}

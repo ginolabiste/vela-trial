@@ -1,0 +1,54 @@
+{
+  "capturedAt": "2026-10-10T11:47:49.081Z",
+  "browser": "Installed Microsoft Edge (Playwright)",
+  "captures": [
+    {
+      "route": "blog",
+      "kind": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "url": "http://127.0.0.1:4175/blog/",
+      "scrollHeight": 2570
+    },
+    {
+      "route": "locations",
+      "kind": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "url": "http://127.0.0.1:4175/locations/",
+      "scrollHeight": 2620
+    },
+    {
+      "route": "contact",
+      "kind": "desktop",
+      "width": 1440,
+      "height": 1000,
+      "url": "http://127.0.0.1:4175/contact/",
+      "scrollHeight": 2326
+    },
+    {
+      "route": "blog",
+      "kind": "mobile",
+      "width": 390,
+      "height": 844,
+      "url": "http://127.0.0.1:4175/blog/",
+      "scrollHeight": 4292
+    },
+    {
+      "route": "locations",
+      "kind": "mobile",
+      "width": 390,
+      "height": 844,
+      "url": "http://127.0.0.1:4175/locations/",
+      "scrollHeight": 4267
+    },
+    {
+      "route": "contact",
+      "kind": "mobile",
+      "width": 390,
+      "height": 844,
+      "url": "http://127.0.0.1:4175/contact/",
+      "scrollHeight": 3686
+    }
+  ]
+}

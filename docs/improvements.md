@@ -1,0 +1,7 @@
+# Improvements
+
+1. **Clearer hierarchy and shared navigation.** Replaced the blog's duplicated first-article H1 with “Tips & Resources”; introduced consistent page introductions, active-page states and shared blue/gold navigation. This makes page purpose and the next action easier to recognize without changing article or business facts.
+2. **Useful office discovery.** Four verified offices appear once, with local search by city/address/ZIP, an announced result count, an empty state, clear/reset, published hours, tap-to-call and address-specific Google Maps directions. This avoids reliance on a heavyweight embedded map and puts useful information directly in reach.
+3. **Accessible, lighter interactions.** Semantic landmarks, visible focus, Escape-to-close mobile navigation, meaningful image alternatives and mobile-friendly controls replace plugin-dependent interactions. Local images and system fonts avoid third-party font and tracking requests. Direct quote/payment links use existing services; no nonfunctional contact form or delivery claim is introduced.
+
+Tradeoffs: this is a thoughtful recreation rather than a pixel-identical clone. The original oversized quote hero is replaced with a concise page introduction; the ZIP funnel becomes a direct quote link because no authorized backend integration exists. Article listing images are not invented (the original listing is text-only). Sunday hours are unspecified by the originals.

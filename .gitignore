@@ -1,0 +1,9 @@
+node_modules/
+dist/
+test-results/
+playwright-report/
+docs/reference/*.html
+docs/reference/*.css
+.env
+.env.*
+!.env.example
